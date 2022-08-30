@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Peter Hou</title>
+    <link>https://peter-hou.github.io/Portfolio-Website/blog/</link>
+    <description>Recent content in Blogs on Peter Hou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://peter-hou.github.io/Portfolio-Website/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Self-Study Notes</title>
+      <link>https://peter-hou.github.io/Portfolio-Website/blog/python_study_notes/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://peter-hou.github.io/Portfolio-Website/blog/python_study_notes/</guid>
+      <description>Updates:
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Random Thoughts on My Everyday Life</title>
+      <link>https://peter-hou.github.io/Portfolio-Website/blog/random-thoughts/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://peter-hou.github.io/Portfolio-Website/blog/random-thoughts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
